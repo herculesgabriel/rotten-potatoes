@@ -27,4 +27,4 @@ jobs:
           push: true
           tags: |
             herculesgabriel/rotten-potatoes:latest
-            heculesgabriel/rotten-potatoes:${{ github.run_number }}
+            herculesgabriel/rotten-potatoes:${{ github.run_number }}
